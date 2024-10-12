@@ -5,9 +5,9 @@
 
  ---
  
-- 📖 Actualmente estoy cursando un [Grado Superior de Desarollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html).
-- 💼 Estudio en el [CIFP "La Conservera"](https://sites.google.com/view/fplaconservera/ies-los-albares-de-cieza?authuser=0)
-- 👀 Busco unas practicas de acuerdo a mi enseñanza.
+- :book: Actualmente estoy cursando un [Grado Superior de Desarollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html).
+- :briefcase: Estudio en el [CIFP "La Conservera"](https://sites.google.com/view/fplaconservera/ies-los-albares-de-cieza?authuser=0)
+- :eyes: Busco unas practicas de acuerdo a mi enseñanza.
 
 ---
 
