@@ -33,6 +33,16 @@
 
 ---
 
+<h2> :mag_right: Preferencias de trabajo</h2>
+
+- Frontend
+- Backend
+- Full-stack
+- Basde de datos
+- Analista de datos
+
+---
+
 <h2> :wrench: Stack Tecnologico Conocido</h2>
 
 | Creacion de Software | Base de datos | Frontend y Backend |
@@ -45,16 +55,11 @@
 
 <h2> :metal: Mis Hobbies :metal: </h2>
 
----
-
 ### :minidisc: Produccion Musical 
 
 <img src="https://img.shields.io/badge/Ableton Live-%23000000.svg?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/FL Studio-%23000000.svg?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cubase-%23000000.svg?&style=for-the-badge" />
-
-
----
 
 ### :video_game: Gaming
 <div display="flex">
