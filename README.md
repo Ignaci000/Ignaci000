@@ -1,4 +1,4 @@
-# Hola bienvenido, soy Ignacio.
+# :wave: Hola bienvenido, soy Ignacio.
 
  
 - :book: Actualmente estoy cursando un [Grado Superior de Desarollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html).
