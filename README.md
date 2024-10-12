@@ -7,6 +7,9 @@
 
 ---
 
+ ![](https://preview.redd.it/n93k6oc2wab71.png?width=640&crop=smart&auto=webp&s=b4645f45f103cd8c7fa00da1e017ac375a1d6e3a)
+ 
+---
 <h3> 🛠 &nbsp;Stack tecnologico del curso</h3>
 
 ## Frameworks: 
@@ -34,6 +37,11 @@
 |       Python         |    MySQL      |       HTML5        |
 |       Java           |    MongoDB    |     Javascript     |
 |                      |    Oracle     |        CSS         |
+
+---
+
+## 💽 Produccion Musical 
+
 
 <!---
 Ignaci000/Ignaci000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
