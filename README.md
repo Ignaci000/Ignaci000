@@ -45,11 +45,11 @@
 
 <h2> :wrench: Stack Tecnologico Conocido</h2>
 
-| Creacion de Software | Base de datos | Frontend y Backend |
-| -------------------- | ------------- | ------------------ |
-|       Python         |    MySQL      |       HTML5        |
-|       Java           |    MongoDB    |     Javascript     |
-|                      |    Oracle     |        CSS         |
+| Creacion de Software | Base de datos | Frontend y Backend | Sistemas operativos |
+| -------------------- | ------------- | ------------------ | ------------------- |
+|       Python         |    MySQL      |       HTML5        | Windows             |
+|       Java           |    MongoDB    |     Javascript     | Android             |
+|                      |    Oracle     |        CSS         | Linux               |
 
 ---
 
