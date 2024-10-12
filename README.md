@@ -31,6 +31,14 @@
 - Oracle
 - Redis
 
+### Lenguajes de Programacion
+- Java
+- Python
+- PHP
+- SQL
+- Ruby
+- Visual Basic
+
 ---
 
 <h2> :mag_right: Preferencias de trabajo</h2>
@@ -49,7 +57,7 @@
 | -------------------- | ------------- | ------------------ | ------------------- |
 |       Python         |    MySQL      |       HTML5        | Windows             |
 |       Java           |    MongoDB    |     Javascript     | Android             |
-|                      |    Oracle     |        CSS         | Linux               |
+|       SQL            |    Oracle     |        CSS         | Linux               |
 
 ---
 
