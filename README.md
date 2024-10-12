@@ -12,7 +12,7 @@
 
 ---
 
-<h2> :wrench: &nbsp;Stack tecnologico del curso</h2>
+<h2> :wrench: Stack tecnologico del curso</h2>
 
 ## Frameworks: 
 
@@ -32,7 +32,7 @@
 
 ---
 
-<h2> :wrench: &nbsp;Stack Tecnologico Conocido</h2>
+<h2> :wrench: Stack Tecnologico Conocido</h2>
 
 | Creacion de Software | Base de datos | Frontend y Backend |
 | -------------------- | ------------- | ------------------ |
