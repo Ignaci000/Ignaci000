@@ -36,8 +36,6 @@
 - Python
 - PHP
 - SQL
-- Ruby
-- Visual Basic
 
 ---
 
@@ -53,11 +51,11 @@
 
 <h2> :wrench: Stack Tecnologico Conocido</h2>
 
-| Creacion de Software | Base de datos | Frontend y Backend | Sistemas operativos |
+|Desarrollo de Software| Base de datos |      Frontend      | Sistemas operativos |
 | -------------------- | ------------- | ------------------ | ------------------- |
 |       Python         |    MySQL      |       HTML5        | Windows             |
 |       Java           |    MongoDB    |     Javascript     | Android             |
-|       SQL            |    Oracle     |        CSS         | Linux               |
+|       PHP            |    Oracle     |        CSS         | Linux               |
 
 ---
 
@@ -87,6 +85,11 @@
 <a href="mailto:448207@alu.murciaeduca.es"><img alt="Email" src="https://img.shields.io/badge/Email-448207@alu.murciaeduca.es-blue?style=flat-square&logo=gmail"></a>
 
 ---
+
+![Ignaci000 Github Stats](https://github-readme-stats.vercel.app/api?username=Ignaci000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+---
+
 <!---
 Ignaci000/Ignaci000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
