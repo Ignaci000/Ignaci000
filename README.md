@@ -4,7 +4,7 @@
 - :book: Actualmente estoy cursando un [Grado Superior de Desarollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html).
 - :briefcase: Estudio en el [CIFP "La Conservera"](https://sites.google.com/view/fplaconservera/ies-los-albares-de-cieza?authuser=0)
 - :eyes: Busco unas practicas de acuerdo a mi enseñanza y estoy abierto a nuevos campos.
-- :hammer: Tambien estoy en un curso de [Udemy](https://www.udemy.com/es/) llamado [Java para pincipiantes](https://www.udemy.com/course/java-para-principiantes-hackaprende/).
+- :hammer: Cursando [Java para pincipiantes](https://www.udemy.com/course/java-para-principiantes-hackaprende/) en [Udemy](https://www.udemy.com/es/).
 
 
 ---
