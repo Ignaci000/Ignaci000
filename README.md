@@ -1,10 +1,5 @@
 # :wave: Hola bienvenido, soy Ignacio.
 
----
-
-![](https://preview.redd.it/n93k6oc2wab71.png?width=640&crop=smart&auto=webp&s=b4645f45f103cd8c7fa00da1e017ac375a1d6e3a)
-
----
 - :book: Actualmente estoy cursando un [Grado Superior de Desarollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html).
 - :briefcase: Estudio en el [CIFP "La Conservera"](https://sites.google.com/view/fplaconservera/ies-los-albares-de-cieza?authuser=0)
 - :hammer: Cursando [Java para pincipiantes](https://www.udemy.com/course/java-para-principiantes-hackaprende/) en [Udemy](https://www.udemy.com/es/).
@@ -13,6 +8,9 @@
 
 ---
 
+![](https://preview.redd.it/n93k6oc2wab71.png?width=640&crop=smart&auto=webp&s=b4645f45f103cd8c7fa00da1e017ac375a1d6e3a)
+
+---
 <h2> :wrench: Stack tecnologico del curso</h2>
 
 ### Frameworks: 
