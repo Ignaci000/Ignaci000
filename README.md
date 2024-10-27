@@ -81,7 +81,7 @@
 
 ---
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h2> 🤝🏻 Contacto </h2>
 
 <a href="https://www.instagram.com/zeusindahood/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zeusindahood-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:448207@alu.murciaeduca.es"><img alt="Email" src="https://img.shields.io/badge/Email-448207@alu.murciaeduca.es-blue?style=flat-square&logo=gmail"></a>
