@@ -5,7 +5,7 @@
 - :briefcase: Estudio en el [CIFP "La Conservera"](https://sites.google.com/view/fplaconservera/ies-los-albares-de-cieza?authuser=0)
 - :eyes: Busco unas practicas de acuerdo a mi enseñanza y estoy abierto a nuevos campos.
 - :hammer: Cursando [Java para pincipiantes](https://www.udemy.com/course/java-para-principiantes-hackaprende/) en [Udemy](https://www.udemy.com/es/).
-- :hammer: Cursando [Aprende HTML5 y CSS3 desde cero] (https://www.udemy.com/course/aprende-html5-y-css3-desde-cero/) en [Udemy](https://www.udemy.com/es/).
+- :hammer: Cursando [Aprende HTML5 y CSS3 desde cero](https://www.udemy.com/course/aprende-html5-y-css3-desde-cero/) en [Udemy](https://www.udemy.com/es/).
 
 ---
 
