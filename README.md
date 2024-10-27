@@ -3,9 +3,9 @@
  
 - :book: Actualmente estoy cursando un [Grado Superior de Desarollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html).
 - :briefcase: Estudio en el [CIFP "La Conservera"](https://sites.google.com/view/fplaconservera/ies-los-albares-de-cieza?authuser=0)
-- :eyes: Busco unas practicas de acuerdo a mi enseñanza y estoy abierto a nuevos campos.
 - :hammer: Cursando [Java para pincipiantes](https://www.udemy.com/course/java-para-principiantes-hackaprende/) en [Udemy](https://www.udemy.com/es/).
 - :hammer: Cursando [Aprende HTML5 y CSS3 desde cero](https://www.udemy.com/course/aprende-html5-y-css3-desde-cero/) en [Udemy](https://www.udemy.com/es/).
+- :eyes: Busco unas practicas de acuerdo a mi enseñanza y estoy abierto a nuevos campos.
 
 ---
 
@@ -62,6 +62,8 @@
 <h2> :metal: Mis Hobbies :metal: </h2>
 
 ### :minidisc: Produccion Musical 
+
+![](https://ableton-production.imgix.net/components/text-beside-media/web-browser.png?auto=compress%2Cformat&w=768)
 
 <img src="https://img.shields.io/badge/Ableton Live-%23000000.svg?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/FL Studio-%23000000.svg?&style=for-the-badge" />
