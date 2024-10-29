@@ -42,14 +42,14 @@
 - Frontend
 - Backend
 - Full-stack
-- Basde de datos
+- Base de datos
 - Analista de datos
 
 ---
 
 <h2> :wrench: Stack Tecnologico Conocido</h2>
 
-|Desarrollo de Software| Base de datos |      Frontend      | Sistemas operativos |
+|Desarollo de Software | Base de datos |      Frontend      | Sistemas operativos |
 | -------------------- | ------------- | ------------------ | ------------------- |
 |       Python         |    MySQL      |       HTML5        | Windows             |
 |       Java           |    MongoDB    |     Javascript     | Android             |
